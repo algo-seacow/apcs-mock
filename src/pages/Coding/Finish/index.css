@@ -1,0 +1,15 @@
+.finish-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  line-height: 200%;
+  font-size: 40px;
+  flex-direction: column;
+}
+
+.finish-return {
+  font-size: 20px;
+}
+
+.hidden { color:white}

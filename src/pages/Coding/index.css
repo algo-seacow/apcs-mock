@@ -1,0 +1,32 @@
+.coding-container {
+  background-color: #fcfcfc;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 5px 10px;
+}
+
+.timer-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.problem-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.submission-container {
+  flex-grow: 60;
+  padding: 0 10px;
+}
+
+.submit-container {
+  display: flex;
+  justify-content: center;
+  flex-grow: 20;
+  padding: 20px;
+}
