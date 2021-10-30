@@ -22,7 +22,7 @@ export const call = async (method, path, data) => {
 };
 
 const API = {
-  setToken, call
+  call
 };
 
 export default API;
