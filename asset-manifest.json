@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/apcs-mock-client/static/css/main.8391d6ab.chunk.css",
-    "main.js": "/apcs-mock-client/static/js/main.9fd0c61f.chunk.js",
-    "main.js.map": "/apcs-mock-client/static/js/main.9fd0c61f.chunk.js.map",
+    "main.js": "/apcs-mock-client/static/js/main.b8b0afbe.chunk.js",
+    "main.js.map": "/apcs-mock-client/static/js/main.b8b0afbe.chunk.js.map",
     "runtime-main.js": "/apcs-mock-client/static/js/runtime-main.3844b01f.js",
     "runtime-main.js.map": "/apcs-mock-client/static/js/runtime-main.3844b01f.js.map",
     "static/js/2.d51b3c30.chunk.js": "/apcs-mock-client/static/js/2.d51b3c30.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.3844b01f.js",
     "static/js/2.d51b3c30.chunk.js",
     "static/css/main.8391d6ab.chunk.css",
-    "static/js/main.9fd0c61f.chunk.js"
+    "static/js/main.b8b0afbe.chunk.js"
   ]
 }
